@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido a la pagina de Angel Cevallos
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
